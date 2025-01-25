@@ -61,3 +61,43 @@ CREATE TABLE `myplans` (
 3. Run the SQL commands to create the database and tables.
 4. Verify the `plan` database and its tables (`user` and `myplans`) are created successfully.
 
+Customize the following sections by adding your own API keys and email credentials to make the application work seamlessly.
+![Ekran görüntüsü 2025-01-25 202054](https://github.com/user-attachments/assets/6f6fb76e-04a6-4230-9c62-a40c27208427)
+![Ekran görüntüsü 2025-01-25 201927](https://github.com/user-attachments/assets/57401c0a-38fb-49c8-841f-86574d86b751)
+
+The following screenshots showcase the application's interface and functionality when running successfully.
+
+![Ekran görüntüsü 2025-01-25 195503](https://github.com/user-attachments/assets/3e1f582c-dc36-4fd2-8476-d5fa6ff13254)
+![Ekran görüntüsü 2025-01-25 213204](https://github.com/user-attachments/assets/f81ca024-9fb9-431d-b7ab-0831cdc05b99)
+![Ekran görüntüsü 2025-01-25 200754](https://github.com/user-attachments/assets/41f04dd8-6519-41cc-98cc-225508a31ea3)
+![Ekran görüntüsü 2025-01-25 200855](https://github.com/user-attachments/assets/2ba8c9ef-e063-4e03-b1d9-cacd5f627b35)
+![Ekran görüntüsü 2025-01-25 200833](https://github.com/user-attachments/assets/a9b6a814-52f3-4f4c-93d0-233e9e4ecb90)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
