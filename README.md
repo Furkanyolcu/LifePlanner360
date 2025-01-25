@@ -56,4 +56,9 @@ CREATE TABLE `myplans` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 
+### Steps to Setup Database
+1. Open your database management tool (e.g., phpMyAdmin, MySQL Workbench).
+2. Copy the SQL code above.
+3. Run the SQL commands to create the database and tables.
+4. Verify the `plan` database and its tables (`user` and `myplans`) are created successfully.
 
