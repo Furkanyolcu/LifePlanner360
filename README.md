@@ -11,8 +11,6 @@ LifePlanner360 is a comprehensive planning application to organize your events a
 ![Weather API](https://img.shields.io/badge/Weather%20API-00C6FF?style=for-the-badge&logo=icloud&logoColor=white)  
 ![SMTP (Gmail)](https://img.shields.io/badge/SMTP%20(Gmail)-FF4500?style=for-the-badge&logo=gmail&logoColor=white)  
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
-![Yahoo Mail](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)  
-![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)  
 
 
 
