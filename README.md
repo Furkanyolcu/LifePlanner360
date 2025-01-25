@@ -3,11 +3,17 @@ LifePlanner360 is a comprehensive planning application to organize your events a
 
 ## 🛠️ Technologies Used
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Weather API](https://img.shields.io/badge/Weather%20API-00C6FF?style=for-the-badge&logo=icloud&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP-FF4500?style=for-the-badge&logo=gmail&logoColor=white)
+## 🛠️ Technologies Used
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Weather API](https://img.shields.io/badge/Weather%20API-00C6FF?style=for-the-badge&logo=icloud&logoColor=white)  
+![SMTP (Gmail)](https://img.shields.io/badge/SMTP%20(Gmail)-FF4500?style=for-the-badge&logo=gmail&logoColor=white)  
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  
+![Yahoo Mail](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)  
+![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)  
+
 
 
 LifePlanner360: Your All-in-One Life Organizer
