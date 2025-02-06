@@ -4,7 +4,7 @@ LifePlanner360 is a comprehensive planning application to organize your events a
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
